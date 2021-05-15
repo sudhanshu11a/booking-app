@@ -1,0 +1,2828 @@
+{
+  "centers": [
+    {
+      "center_id": 587820,
+      "name": "JPC Hospital Ground Floor - 2",
+      "address": "Shastri Park, Delhi-110053",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "04673ebc-9112-4ca5-84e4-648ca0207863",
+          "date": "11-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "ff494f5f-8e63-48e4-994b-59075c048900",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "dea2c3d2-935c-4072-bd28-e6a30dd8b9cb",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "8691a42c-59cc-477c-8513-a107590ea635",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "62b5d4f0-2338-4be2-aef3-a1d3e49cbe7f",
+          "date": "17-05-2021",
+          "available_capacity": 86,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 577114,
+      "name": "JPC Hospital 4th Floor A Wing",
+      "address": "Shastri Park, Delhi-110053",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "21:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "bd07fa05-3206-493e-a5e0-996dd9afd84b",
+          "date": "11-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "94e514d2-7bca-4e73-a262-9782d031408d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "27645cbe-4d81-4d7f-bae7-18639e1d74fa",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "d6d582bf-ae1d-450d-a63d-c608526a191a",
+          "date": "15-05-2021",
+          "available_capacity": 11,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "4558f934-6b84-4766-ba5d-17b70fbc93a0",
+          "date": "17-05-2021",
+          "available_capacity": 66,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694220,
+      "name": "GBSSS Khajoori Khas S2",
+      "address": "Khajuri Khas Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e0bfc936-7c55-46b0-bf22-821e0e45d225",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694221,
+      "name": "GBSSS Khajoori Khas S3",
+      "address": "Khajuri Khas Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "512ee9de-66e6-4428-ba16-89d7730d092b",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694231,
+      "name": "GGSSS Tukhmeerpur S3",
+      "address": "Tukhmirpur Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "39d79889-8af6-4dbb-9f39-3364f5d2e238",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694219,
+      "name": "GBSSS Khajoori Khas S1",
+      "address": "Khajuri Khas Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ce7e9fa2-5b63-4b69-a435-1748195fa3d9",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694230,
+      "name": "GGSSS Tukhmeerpur S2",
+      "address": "Tukhmirpur Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 0,
+      "long": 0,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9f5fc3f8-345f-4b3e-81a5-73f9a041235a",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698075,
+      "name": "EDMC Pri Sch Rajiv Nagar-II S4",
+      "address": "Rajiv Nagar-II 64-E Shri Ram Colony North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a7f637d5-bbcf-4954-beec-9b232558042a",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694224,
+      "name": "GGSSS No.1 YAMUNA VIHAR S1",
+      "address": "B-Block Yamuna Vihar Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "81f8c522-70b6-4848-88c3-8b981193737c",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694214,
+      "name": "GBSSS Old Mustafabad S1",
+      "address": "Mustafabad Gali No.19 Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9f06e5e0-3da7-4eda-bdee-5554d88c7cbb",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694207,
+      "name": "GGSSS Sonia Vihar 4.5 Pusta S4",
+      "address": "Sonia Vihar 4.5 Pusta Near Shani Bazar Chowk Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5388ba89-aa2c-4ed3-9272-480091f92467",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694211,
+      "name": "GBSSS No. 1 North Ghonda S3",
+      "address": "North Ghonda Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4f989217-3964-4746-b5fb-3b5600dbda7d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694226,
+      "name": "GGSSS No.1 YAMUNA VIHAR S3",
+      "address": "B-Block Yamuna Vihar Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ef697410-7a61-4f8d-91db-83797c7c10df",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694206,
+      "name": "GGSSS Sonia Vihar 4.5 Pusta S3",
+      "address": "Sonia Vihar 4.5 Pusta Near Shani Bazar Chowk Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d6c1bcf3-b2a8-4db9-b249-dfa5b9823c30",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 653510,
+      "name": "Polyclinic Bhajanpura",
+      "address": "Polyclinic Bhajanpura, North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1d1b74f6-eb1f-4dda-843b-42a92922378d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "882d3c7d-23ce-4b8d-af5e-0c3563e0c018",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "837829c7-5ed9-41ff-b276-eedb218c3551",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "19906c5c-133d-4f91-8949-61d94cb4949d",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698070,
+      "name": "EDMC PBV Sabhapur Gujran S5",
+      "address": "Sabhapur Gujran 61-E Karawal Nagar West North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5cedb8f5-eb2e-4772-86b3-650bf5e154d9",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694225,
+      "name": "GGSSS No.1 YAMUNA VIHAR S2",
+      "address": "B-Block Yamuna Vihar Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "eb1ff87b-b11c-4a31-b4dc-f782378b8c71",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694204,
+      "name": "GGSSS Sonia Vihar 4.5 Pusta S1",
+      "address": "Sonia Vihar 4.5 Pusta Near Shani Bazar Chowk Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0185d09d-6225-451f-95d0-6384c8532747",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694216,
+      "name": "GBSSS Old Mustafabad S3",
+      "address": "Mustafabad Gali No.19 Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4e888b1f-08d6-4bfe-856d-779f3fb26213",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694213,
+      "name": "GBSSS No. 1 North Ghonda S5",
+      "address": "North Ghonda Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1015cb93-6e24-416f-a554-6561fbe6e0c5",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698069,
+      "name": "EDMC PBV Sabhapur Gujran S4",
+      "address": "Sabhapur Gujran 61-E Karawal Nagar West North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "02c359c2-1b28-4828-9e3f-a282cdfaee6d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694209,
+      "name": "GBSSS No. 1 North Ghonda S1",
+      "address": "North Ghonda Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e90ffa46-073e-42e9-8f86-bc4119cad03d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698071,
+      "name": "EDMC Pri Sch Rajiv Nagar-II S1",
+      "address": "Rajiv Nagar-II 64-E Shri Ram Colony North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0a9fb224-4cb2-4a19-9b24-aed0a1a4d2f7",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694208,
+      "name": "GGSSS Sonia Vihar 4.5 Pusta S5",
+      "address": "Sonia Vihar 4.5 Pusta Near Shani Bazar Chowk Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5ca01dda-fe91-4d46-b2a4-0c8a49e575fa",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 561040,
+      "name": "JPC Hospital Ground Floor",
+      "address": "Shastri Park, Delhi - 110053",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "21:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a2313cff-4ea5-4d55-a537-3ad608096323",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "d7787489-ef97-4f5b-8db6-db0ebbcadb39",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "66aacfbf-6941-490d-b2e4-90ef3921d2c1",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "4b22414d-ff41-4b20-9531-80127d800d1b",
+          "date": "17-05-2021",
+          "available_capacity": 50,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698066,
+      "name": "EDMC PBV Sabhapur Gujran S2",
+      "address": "Sabhapur Gujran 61-E Karawal Nagar West North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b6623f00-fcdd-4495-a12d-f134b38e5d27",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698074,
+      "name": "EDMC Pri Sch Rajiv Nagar-II S3",
+      "address": "Rajiv Nagar-II 64-E Shri Ram Colony North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "51f309c5-9834-450f-8796-f9af6f381dbb",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698063,
+      "name": "EDMC PBV Sabhapur Gujran S1",
+      "address": "Sabhapur Gujran 61-E Karawal Nagar West North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b1c4a1c0-1f95-45a8-988a-21ad695dc792",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698068,
+      "name": "EDMC PBV Sabhapur Gujran S3",
+      "address": "Sabhapur Gujran 61-E Karawal Nagar West North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a911f85d-a954-4a6e-b473-f0b17c1fa1fe",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 577261,
+      "name": "JPC Hospital 4th Floor B Wing",
+      "address": "Shastri Park, Delhi-110053",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "21:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "adc00884-6e07-4fd7-9aa1-556870c4f0e4",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "282cf9e0-2a88-4861-866e-e74968dc5627",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "c538cf97-85f6-48dc-b68a-1f42e438e7ca",
+          "date": "15-05-2021",
+          "available_capacity": 61,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        },
+        {
+          "session_id": "07dafb63-e668-4b63-a587-6cc262141c66",
+          "date": "17-05-2021",
+          "available_capacity": 94,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-12:00PM",
+            "12:00PM-03:00PM",
+            "03:00PM-06:00PM",
+            "06:00PM-09:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694232,
+      "name": "GGSSS Tukhmeerpur S4",
+      "address": "Tukhmirpur Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "148865a0-889f-4295-8bb3-4140c9bb559c",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694205,
+      "name": "GGSSS Sonia Vihar 4.5 Pusta S2",
+      "address": "Sonia Vihar 4.5 Pusta Near Shani Bazar Chowk Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e83e2934-726d-441f-bd0d-ae38b6ffcdd3",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694229,
+      "name": "GGSSS Tukhmeerpur S1",
+      "address": "Tukhmirpur Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e0212fd2-ffe3-454d-aee9-4e2a747ce28a",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6276,
+      "name": "CGHS Disp Yamuna Vihar PHC",
+      "address": "B2, New Delhi, 123, Block B, Yamuna Vihar, North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "db4cc97b-b112-41fe-bdcd-f6545b0a9b45",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "904920de-354c-4e61-8be7-85602bb0d28c",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "e36ef869-3b44-4f21-9153-31122383daea",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "6464d27c-da98-4931-b254-58ab2667d444",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694215,
+      "name": "GBSSS Old Mustafabad S2",
+      "address": "Mustafabad Gali No.19 Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "81e117a5-26df-4242-a7a8-e24cc7fad16d",
+          "date": "12-05-2021",
+          "available_capacity": 1,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694233,
+      "name": "GGSSS Tukhmeerpur S5",
+      "address": "Tukhmirpur Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "62e9abb3-9afb-4b3b-b371-dcdfd9b6b51c",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694210,
+      "name": "GBSSS No. 1 North Ghonda S2",
+      "address": "North Ghonda Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "895c28e8-cde0-48e3-88fc-572ca6f48953",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698073,
+      "name": "EDMC Pri Sch Rajiv Nagar-II S2",
+      "address": "Rajiv Nagar-II 64-E Shri Ram Colony North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "650697c8-cb3e-48e4-9101-97e8f8041f0f",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 595957,
+      "name": "Veer Savarkar Arogya Sanst 2",
+      "address": "Maternity Home-Karawal Nagar, Near Chest Clinic, Rama Garden, Karawal Nagar.Delhi-110094.",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "167392a5-59f5-4c79-96d0-649ebc35649d",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "6951198a-f250-43d5-8f95-482276eadfc4",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "e0f99a79-c063-4f8c-8d26-3827d0983268",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "76f120f7-61be-4a7f-9a66-0fdb274bcf54",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6267,
+      "name": "Veer Savarkar Arogya Sansthan",
+      "address": "Maternity Home-Karawal Nagar, Near Chest Clinic, Rama Garden, Karawal Nagar.Delhi-110094.",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5eac78a2-0bef-4d14-ad45-2c4360fd41ff",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "913a1c3e-2ef6-4b8c-8f8d-5d5f12013373",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "4651d845-1689-4175-8a17-dd2fa1e67246",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "78f5cf73-9117-42a0-a1e6-e1a50eab553f",
+          "date": "17-05-2021",
+          "available_capacity": 22,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 661951,
+      "name": "Veer Savarkar Arogya Sanst 3",
+      "address": "Maternity Home-Karawal Nagar Near Chest Clinic Rama Garden Karawal Nagar.Delhi-110094",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "401cd480-95f0-45af-9fde-3aca67e4868a",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698076,
+      "name": "EDMC Pri Sch Rajiv Nagar-II S5",
+      "address": "Rajiv Nagar-II 64-E Shri Ram Colony North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "85790c22-4ec6-4d77-819d-45d4f2f00440",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 694212,
+      "name": "GBSSS No. 1 North Ghonda S4",
+      "address": "North Ghonda Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4f035309-4530-4fbd-a9d8-d17659fe44b2",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6275,
+      "name": "MCW Gautampuri PHC",
+      "address": "M And CW Gautampuri Molarband , Near AIIMS Ayurveda, New Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "31690524-601f-4762-8240-b77cffafcca0",
+          "date": "13-05-2021",
+          "available_capacity": 1,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "2c99b4bf-f4ed-4d49-a069-90cf2c3f14cd",
+          "date": "15-05-2021",
+          "available_capacity": 7,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "001d4134-0137-478c-88a5-b99fb7357213",
+          "date": "17-05-2021",
+          "available_capacity": 40,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6270,
+      "name": "SPUHC Chandu Nagar PHC",
+      "address": "B-200, Gali No-2,Chandu Nagar, Delhi-94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "65f040a9-4a12-459f-bb86-032438e8c296",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "fb31b252-b8e4-4ba5-b5ef-c7ab45cfeda6",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "4ad7fbdf-7300-4d4e-b27b-443a50efd291",
+          "date": "17-05-2021",
+          "available_capacity": 33,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6284,
+      "name": "DGD Khajuri Khas PHC",
+      "address": "Delhi Govt. Dispensary, Near Govt. Senior Secondary School Khajoori Khas Village, Delhi-94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8f124ba3-bef7-4aaf-b97e-f55b62735157",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "c0302bbf-552f-490c-9617-a119873d9390",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "28cb7353-b10a-4b50-bd0f-26acada08870",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6281,
+      "name": "SPUHC Chauhan Patti PHC",
+      "address": "Transfarmer Wali Gali C-o Rev Singh, Mangal Bazar Chauhan Patti, Delhi 94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5d6ce36e-5822-43b0-a426-e3142957d754",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "f78506f0-2f13-405b-82ca-26495f886ab8",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "3a861a30-4345-485b-9409-b6e9ac5fc12a",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6265,
+      "name": "PUHC Sonia Vihar 4.5 Pusta PHC",
+      "address": "Sonia Vihar Pusta - 4.5 Near Sai Mandir Delhi-94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "84bf74ae-1c20-4907-966c-912b47d5e353",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "9abc8a9c-e3d0-4b4d-afe9-6352bf64b2e5",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "4235605b-2b69-4044-9ef6-e83c61605cd2",
+          "date": "17-05-2021",
+          "available_capacity": 15,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6274,
+      "name": "SPUHC Shiv Vihar 5 PHC",
+      "address": "Gali No.6, Phase-V, Near DSK Public School, Shiv Vihar, Phase - V.",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f1c00fc9-7eb2-486e-80b7-8182e5862407",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "21816eb0-9ce8-4b2c-8cd7-303280380adf",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "67daad46-bdbf-444a-afcc-f133eae8535a",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6264,
+      "name": "MCW Sonia Vihar PHC",
+      "address": "Gali No. 8, 4.5 Pusta, Sonia Vihar, North East, Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c2897e48-d854-4b9c-a100-77b4bc00637a",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "f92c25fa-24a5-400c-b80a-5995594ff982",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "e6ccf51e-8538-40ac-b7d2-0c27d24d41ed",
+          "date": "17-05-2021",
+          "available_capacity": 18,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6271,
+      "name": "SPUHC Shri Ram Colony PHC",
+      "address": "D-Block, Gali No.15 Shree Ram Colony Seed PUHC",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "adc3802c-3fee-4b79-afc6-c689013718ba",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "ca138a64-0b49-45ea-910c-f19ea473f5f9",
+          "date": "15-05-2021",
+          "available_capacity": 3,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "44ac5cc2-5886-4f42-95bd-8dd739cc9522",
+          "date": "17-05-2021",
+          "available_capacity": 49,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6266,
+      "name": "Shaheed Bhagat Singh Colon PHC",
+      "address": "Shahid Bhagat Singh Colony",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b9a59fc7-8e9a-4b10-a464-aa9760f65542",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "63568a9b-a8da-41b2-9345-ce950a29f244",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "cfd88f82-ed9b-4aaa-b792-ea366ee8d654",
+          "date": "17-05-2021",
+          "available_capacity": 10,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6273,
+      "name": "SPUHC Shiv Vihar 2 PHC",
+      "address": "Gali No. 10, Katra No. 182, Jsm Public School Panchal Vihar Gulab Dairy. Shiv Vihar, Phase - II",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1d81827b-5a9b-474e-b2a0-0c5330598055",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "2c4db4a9-f012-48c7-aa26-5e08274b55ca",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "564571bf-4f57-4902-8170-185a54f97bac",
+          "date": "17-05-2021",
+          "available_capacity": 16,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6261,
+      "name": "SPUHC Old Mustafabad PHC",
+      "address": "House No -897, Street No. 9, Old Mustafabad Delhi - 94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5991e386-b02a-4a21-b82a-cc72105e17fb",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "44cf12eb-199f-4bf8-9dcd-92db7a541c0c",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "46b988f1-42d3-410f-9a3a-5267152e2a83",
+          "date": "17-05-2021",
+          "available_capacity": 37,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6285,
+      "name": "SPUHC Jafrabad PHC",
+      "address": "Taiyab House,H NO.459,GALI NO.21,JAFRABAD DELHI-110053",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6f1ba80c-6b24-4e25-a6b5-ef368b2f761e",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "2c84ad38-f4af-41dd-a125-9d8964f94791",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "f1df1b34-5b76-4ea0-98f6-d5f09c93f62e",
+          "date": "17-05-2021",
+          "available_capacity": 35,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6262,
+      "name": "DGD Shiv Vihar Tiraha PHC",
+      "address": "Shiv Vihar Tiraha Near Hauman Mandir",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2b8e2880-1e6b-4157-8502-ac16a3cde6f6",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "52a5cd1c-274e-407b-9966-198d53141d5d",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "f6ac90d3-ce73-46dc-8848-fad1f2b39925",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6288,
+      "name": "DGD Yamuna Vihar PHC",
+      "address": "DGD YAMUNA VIHAR",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "87a46c97-9963-4644-b156-8a7e07424e80",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "56205a82-3798-494b-a2a3-1a39a9b3750a",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "2d172f4a-1e60-4f84-9618-a42a3fb4c1f0",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 842,
+      "name": "DGD Bhagirathi Vihar",
+      "address": "Gali No. 7, Near Brijpuri Road, Bhagirathi Vihar",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "757141c7-761b-4ac1-92fc-260b1fb238d6",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "1984e8cb-0a93-4c2a-8693-3c4e7d47a63e",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "5b9af924-21f0-4f17-97bd-3ece4ab11e25",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6289,
+      "name": "DGD Johri Pur PHC",
+      "address": "Johri Pur Village, Delhi 94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 78,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d4795e00-3b60-4f17-ba5f-883b4f95ef9f",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "e0cf5a4e-24b7-4382-ae14-4e1b28c8f6d6",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "ddda1ee8-f6b3-4bf6-9053-226511a8c544",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6272,
+      "name": "MH Yamuna Vihar CHC",
+      "address": "MCD, M And CW HM B2 Block, Yamuna Vihar, Near Petrol Pump, 53",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8a4c7419-26aa-4d1e-9026-9b61c68d47bd",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "4b321999-59f4-426f-9e6c-8eb961fb3c20",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "689ccdb7-513c-4603-bfc5-80c7a6496cfe",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 841,
+      "name": "DGD Arvind Nagar PHC",
+      "address": "Delhi Govt Dispensary, Arvind Nagar, Ghonda, Delhi-53",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "665fb11e-f947-4ff4-beb3-f3418e6dd28b",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "88024e2f-b5e9-433a-b41f-cc298d2ebea9",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "ace8ac8e-b77a-48de-8f07-35e7c3296c9b",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6263,
+      "name": "SPUHC Bhagirathi Vihar PHC",
+      "address": "H. No. 363 Gali No. 2 Indra Vihar Delhi 94",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ef4117d5-6580-4277-97bc-a0ca97221e69",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6268,
+      "name": "SPUHC Nehru Vihar PHC",
+      "address": "D2 Madir Wali Gali House No-178 Nehru Vihar",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b732e62b-223d-4a01-a8eb-ba0dae641bf2",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "d66e65bb-bec6-4525-8b8f-58c5236148a2",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "37eced68-c41e-4f09-9cb3-9d059707854a",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6280,
+      "name": "Polyclinic Gautampuri PHC",
+      "address": "DGD GAUTAMPURI T- BLOCK GALI NO.7,GAUTAMPURI DELHI-110095",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110053,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b02ca7e1-554d-4a6d-9c3a-5676f0563169",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "c72a014a-7b1e-40b7-ba79-e17200b7240d",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "5894090e-8217-4e89-bca8-0153d2eecb3e",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 605729,
+      "name": "DGD Gokulpuri PHC",
+      "address": "Ganga Vihar Near Post Office, Gokalpri, North East Delhi",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6b0f252e-642b-48aa-a120-eaf4ed28b0a8",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "857284e5-8e67-4279-9127-277b09302d8f",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "64795139-ee83-4cfa-91e0-4a0213a5f4ad",
+          "date": "17-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 6282,
+      "name": "SPUHC Sonia Vihar 0 Pusta PHC",
+      "address": "A-Block, Main Sercular Road, Part - IISonia Vihar Pusta - 0 Pusta",
+      "state_name": "Delhi",
+      "district_name": "North East Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110094,
+      "lat": 28,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f2e92481-fb0f-41e3-95b7-6b96dc42d224",
+          "date": "13-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "fe8e9dc1-84dd-4b0a-81a6-2549c8164cb5",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        },
+        {
+          "session_id": "6384dfdc-4de3-41e1-8f44-16e8d47f387a",
+          "date": "17-05-2021",
+          "available_capacity": 24,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    }
+  ]
+}
