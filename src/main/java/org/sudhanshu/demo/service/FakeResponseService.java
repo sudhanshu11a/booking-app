@@ -17,7 +17,7 @@ public class FakeResponseService {
     public String getFakeResponse() throws IOException{
         String data = null;
         try {
-            File file = ResourceUtils.getFile("classpath:fakeResponse.txt");
+            File file = ResourceUtils.getFile("classpath:fakeResponse.json");
             data = new String(Files.readAllBytes(file.toPath()));
         } catch (IOException e) {
             LOGGER.error("IOException", e);

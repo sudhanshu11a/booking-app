@@ -1,6 +1,8 @@
 package org.sudhanshu.demo.controller;
 
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -17,6 +19,8 @@ import java.util.List;
 @RestController
 @CrossOrigin
 public class TestController {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(TestController.class);
 
     @Autowired
     private CheckAvailabilityService checkAvailabilityService;
@@ -48,7 +52,8 @@ public class TestController {
         try{
             filteredCenters =  checkAvailabilityService.getAvaiableCentersForAllDistricts(date, minAge);
         }catch(Exception ex){
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(ex.getMessage());
+            LOGGER.error(ex.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(ex.getMessage());
         }
         return ResponseEntity.ok(filteredCenters);
     }

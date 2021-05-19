@@ -1,0 +1,6 @@
+.SessionDetailsCard {
+  border: thin solid rgb(247, 243, 243);
+  background-color: #fc6262;
+  display: flex;
+  justify-content: center;
+}
