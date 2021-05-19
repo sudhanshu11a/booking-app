@@ -28,7 +28,12 @@ public class CenterFilterCretiria {
             center.setSessions(
                     center.getSessions().stream()
                             .filter(session -> session.getMinAgeLimit()==minAgeLimit)
-                            .filter(session -> session.getAvailableCapacity()>minAvailableCapacity)
+                            .filter(session -> {
+                                return (session.getAvailableCapacity()>minAvailableCapacity
+                                        || session.getAvailableCapacityDose1()>minAvailableCapacity
+                                        || session.getAvailableCapacityDose2()>minAvailableCapacity
+                                );
+                            })
                             .collect(Collectors.toList())
             );
         });

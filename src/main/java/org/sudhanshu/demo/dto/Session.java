@@ -7,6 +7,8 @@ public class Session {
     private String session_id;
     private LocalDate date;
     private int availableCapacity;
+    private int availableCapacityDose1;
+    private int availableCapacityDose2;
     private int minAgeLimit;
     private String vaccine;
     private List<String> slots;
@@ -33,6 +35,22 @@ public class Session {
 
     public void setAvailableCapacity(int availableCapacity) {
         this.availableCapacity = availableCapacity;
+    }
+
+    public int getAvailableCapacityDose1() {
+        return availableCapacityDose1;
+    }
+
+    public void setAvailableCapacityDose1(int availableCapacityDose1) {
+        this.availableCapacityDose1 = availableCapacityDose1;
+    }
+
+    public int getAvailableCapacityDose2() {
+        return availableCapacityDose2;
+    }
+
+    public void setAvailableCapacityDose2(int availableCapacityDose2) {
+        this.availableCapacityDose2 = availableCapacityDose2;
     }
 
     public int getMinAgeLimit() {

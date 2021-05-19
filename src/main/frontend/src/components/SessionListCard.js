@@ -3,6 +3,10 @@ import {SessionDetailsCard} from '../components/SessionDetailsCard';
 import ('./SessionListCard.css');
 
 export const SessionListCard = (props) => {
+
+    if(props.session){
+        console.log(props.session);
+    }
     
     return (
         <div className="SessionListCard" >

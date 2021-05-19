@@ -1,6 +1,25 @@
 .SessionDetailsCard {
   border: thin solid rgb(247, 243, 243);
   background-color: #fc6262;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
   justify-content: center;
+}
+
+.SessionDetailsCard .AvailabilityDiv{
+  background-color: #ccb9b9;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.SessionDetailsCard .AvailabilityDiv .AvailabilityDoseDiv{
+  display: grid;
+  border: thin solid rgb(247, 243, 243);
+  grid-template-columns: 1fr 1fr;
+}
+
+.SessionDetailsCard .VaccineWithAge{
+  background-color: #13f1df;
+  display: grid;
+  grid-template-columns: 2fr;
 }

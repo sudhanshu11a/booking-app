@@ -89,6 +89,7 @@ public class CheckAvailabilityService {
             centerList = centerConversion.getObjectByJson(rootNode);
         }catch(IOException e) {
             LOGGER.error(e.getMessage());
+            centerList = new ArrayList<>();
         }
         return centerList;
     }

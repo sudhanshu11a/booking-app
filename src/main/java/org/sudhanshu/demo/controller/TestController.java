@@ -25,13 +25,20 @@ public class TestController {
     @Autowired
     private CheckAvailabilityService checkAvailabilityService;
 
-    @GetMapping("/check/{district}/{date}/{minAge}")
-    public ResponseEntity<?> getAvailableCenters(@PathVariable String district, @PathVariable String date, @PathVariable int minAge){
+    @GetMapping("/centers/delhi/{district}/{minAge}")
+    public ResponseEntity<?> getAvailableCenters(@PathVariable String district, @PathVariable int minAge){
+        List<Center> filteredCenters = null;
         try {
-            return ResponseEntity.ok(checkAvailabilityService.getAvaiableCentersForSingleDistricts(district, date, minAge));
+            if("all".equals(district)){
+                return getAvailableCentersAllDistrictsOneWeek(minAge);
+            }
+            filteredCenters =  checkAvailabilityService.getAvaiableCentersForSingleDistricts(district, getTodaysDate(), minAge);
         }catch(Exception e){
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
+            LOGGER.error(e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(e.getMessage());
         }
+        return ResponseEntity.ok(filteredCenters);
+
     }
 
     @GetMapping("/check/age/{minAge}/all/{date}")

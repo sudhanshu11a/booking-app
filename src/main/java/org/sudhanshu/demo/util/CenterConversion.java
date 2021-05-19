@@ -63,6 +63,8 @@ public class CenterConversion {
             session.setSession_id(sessionNode.get("session_id").asText());
             session.setDate(LocalDate.parse(sessionNode.get("date").asText(), dateFormater));
             session.setAvailableCapacity(sessionNode.get("available_capacity").asInt());
+            session.setAvailableCapacityDose1(sessionNode.get("available_capacity_dose1").asInt());
+            session.setAvailableCapacityDose2(sessionNode.get("available_capacity_dose2").asInt());
             session.setMinAgeLimit(sessionNode.get("min_age_limit").asInt());
             session.setVaccine(sessionNode.get("vaccine").asText());
             session.setSlots(getSlotsByJson(sessionNode.get("slots")));

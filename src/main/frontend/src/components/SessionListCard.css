@@ -1,6 +1,5 @@
 .SessionListCard {
   border: thin solid rgb(184, 135, 135);
   background-color: #a7b124;
-  display: flex;
   justify-content: center;
 }
